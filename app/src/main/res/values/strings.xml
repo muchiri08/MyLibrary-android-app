@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">MyLibrary</string>
+    <string name="textView">TextView</string>
+    <string name="see_all_books">See All Books</string>
+    <string name="currently_reading">Currently Reading</string>
+    <string name="already_read">Already Read</string>
+    <string name="wishlist">WishList</string>
+    <string name="favourites">Favourites</string>
+    <string name="about">About</string>
+    <string name="book_name">Book Name</string>
+    <string name="author">Author</string>
+    <string name="author_name">Author Name</string>
+    <string name="short_description">Short Description</string>
+    <string name="delete">Remove</string>
+    <string name="fav_books_label">Favourite Books</string>
+    <string name="all_books_label">All Books</string>
+    <string name="current_book_label">Currently Reading Books</string>
+    <string name="read_books_label">Already Read Books</string>
+    <string name="wishList_books_label">WishList Books</string>
+    <string name="book_activity_label">Book Details</string>
+
+</resources>
